@@ -3,6 +3,7 @@
 
 /// Definiciones
 #define ValDouble 9.7
+#define ValDouble1 9.7
 
 
 /// Constantes
