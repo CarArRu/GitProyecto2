@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644085258 source:c:\users\cesar\onedrive\escritorio\practicas\1ejercicios\c\codeblocks\programa2\proyecto_2\main.c
+	"Otro.h"
+
+1643943360 source:c:\users\cesar\onedrive\escritorio\practicas\1ejercicios\c\codeblocks\programa2\proyecto_2\otro.c
+	"Otro.h"
+
+1644011489 c:\users\cesar\onedrive\escritorio\practicas\1ejercicios\c\codeblocks\programa2\proyecto_2\otro.h
+	<stdio.h>
+	<stdlib.h>
+
