@@ -1,3 +1,4 @@
+Estoy tarbajando aqui y ne he terminado... y ya termine
 #include"Otro.h"
 
 
